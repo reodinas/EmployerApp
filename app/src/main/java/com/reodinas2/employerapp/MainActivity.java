@@ -179,7 +179,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     // 액션바의 메뉴를 탭했을 때, 실행하는 함수가 있다.
-    // 이 함수를 오버라이팅 해야 한다.
+    // 이 함수를 오버라이딩 해야 한다.
     @Override
     public boolean onOptionsItemSelected(@NonNull MenuItem item) {
 
